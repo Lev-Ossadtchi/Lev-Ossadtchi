@@ -39,6 +39,7 @@
 | Проект | Что показано |
 |---|---|
 | [sync-echo-eval](https://github.com/Lev-Ossadtchi/sync-echo-eval) | Двусторонняя синхронизация: обмен «в лоб» доводит справочник из 120 человек до 218 записей, аккуратный держит 120 |
+| [crm-calendar-eval](https://github.com/Lev-Ossadtchi/crm-calendar-eval) | Расписание выездных бригад: «80 % заявок разложено» — плохая новость, если 37 визитов недостижимы по времени в пути |
 | [heat-map-demo](https://github.com/Lev-Ossadtchi/heat-map-demo) | Карта объектов теплоснабжения с печатным макетом |
 | [ring-terrain-stl](https://github.com/Lev-Ossadtchi/ring-terrain-stl) | Рельеф местности из SRTM → геометрия → STL под печать |
 
