@@ -15,6 +15,7 @@
 | [pdf-diff-eval](https://github.com/Lev-Ossadtchi/pdf-diff-eval) | Что изменилось между двумя редакциями документации |
 | [pdf-tables-eval](https://github.com/Lev-Ossadtchi/pdf-tables-eval) | Таблицы из технических PDF по координатам слов, без рамок: 192/192 |
 | [cad-ocr-finetune](https://github.com/Lev-Ossadtchi/cad-ocr-finetune) | Дообучение под чертёжный шрифт: символы 98,7–99,6 % против 86–89 % у готовой модели |
+| [spec-read-eval](https://github.com/Lev-Ossadtchi/spec-read-eval) | Спецификация ГОСТ 2.106 со скана: 48 значений на четырёх уровнях порчи листа; сверка масс правит количество, а не массу |
 
 ### Данные, контакты, парсинг
 
